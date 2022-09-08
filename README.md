@@ -15,9 +15,11 @@ Website
 -Github
 
 IM DUMB
+
 -Mr. Brooks said something about Packer Tracer (I forgot)
 
-Checklist ?
+    
+    Checklist ?
 
 -Update 
 
