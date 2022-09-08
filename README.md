@@ -11,7 +11,6 @@ Computer\HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Run (Once, 
 (You can also use Task Manager)
 
 Website
--Cryptii
 -Rot13
 -Github
 
@@ -19,6 +18,7 @@ IM DUMB
 -Mr. Brooks said something about Packer Tracer (I forgot)
 
 Checklist ?
+
 -Update 
 
 -Show Hidden Files !!!
