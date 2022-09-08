@@ -20,14 +20,24 @@ IM DUMB
 
 Checklist ?
 -Update 
+
 -Show Hidden Files !!!
+
 -Check recently downloaded items (Potienal Malware)
+
 -Uninstall Useless Software (Check Online)
+
 -Turn ON Firewall (Group Policy or Security Policy - I forgot)
+
 -Turn on CTRL-ALT-DEL (Local Security Policy/ Security Options)
+
 -Windows Security (Make sure to update before using)
+
 -Update or Download Firefox
+
 -ON BROWSER, make it highest advanced security (not sure if it will work but ok) 
       YOU COULD ALSO GO TO PRIVACY SETTINGS
+
 -Go to Computer Management (Check Users)
+
 -Make sure nothing is being shared
