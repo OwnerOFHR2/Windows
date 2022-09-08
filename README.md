@@ -14,10 +14,6 @@ Website
 -Rot13
 -Github
 
-IM DUMB
-
--Mr. Brooks said something about Packer Tracer (I forgot)
-
     
     Checklist ?
 
@@ -33,9 +29,9 @@ IM DUMB
 
 -Turn on CTRL-ALT-DEL (Local Security Policy/ Security Options)
 
--Windows Security (Make sure to update before using)
+-Windows Security or whatevere Malware Scanner such as malraybytes (Make sure to update before using)
 
--Update or Download Firefox
+-Update/Download Firefox
 
 -ON BROWSER, make it highest advanced security (not sure if it will work but ok) 
       YOU COULD ALSO GO TO PRIVACY SETTINGS
